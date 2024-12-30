@@ -1,6 +1,6 @@
 # Personal Trainer com IA🏆🏆
 
-Este desafio da DIO, foi a criação de um gerador de rotinas de treinos para um personal trainer através de prompts.
+Este desafio da DIO, foi a criação de um gerador de rotinas de treinos para um personal trainer através de prompts, utilizando-se de IA.
 
 ## Tecnologias utilizadas 💻
 

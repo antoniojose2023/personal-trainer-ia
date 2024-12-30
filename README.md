@@ -1,4 +1,10 @@
-# Personal-trainer-ia
+# Personal Trainer com IA
+
+Este desafio da DIO, foi a criação de um gerador de rotinas de treinos para um personal treiner através de prompts.
+
+## Tecnologias utilizadas
+
+- ChatGPT
 
 ## Prompt
 

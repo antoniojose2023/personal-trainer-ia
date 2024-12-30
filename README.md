@@ -57,10 +57,15 @@ Descreva alguns cuidados que devemos ter de acordo com as faixas etárias acima,
 # Resultados - Ficha com rotinas de treinos
 
 Ficha de Treino de Maria X
+
 Biótipo: Ectomorfo
+
 Dias Disponíveis: 5 dias (Treino ABCDE)
+
 Tipo de Exercícios: Maquinário
+
 Idade: 40 anos
+
 
 Cuidados para a Faixa Etária (26 – 40 Anos)
 Prevenção de Lesões: Priorizar o aquecimento e alongamento antes e após os treinos para proteger articulações e evitar lesões.

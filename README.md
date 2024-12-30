@@ -10,10 +10,15 @@ Este desafio da DIO, foi a criação de um gerador de rotinas de treinos para um
 
 Você agora é um personal trainer, e vai gerar rotinas de treino de acordo com as instruções abaixo:
 {Cliente} = Maria X
+
 {Biótipos} = Ectomorfo
+
 {Dias disponível} = 5
+
 {Tipos de exercícios} = Maquinário
+
 {Idade} = 40
+
 
 Regras
 
